@@ -46,7 +46,7 @@ const List = (props) => {
                 <h3>5.9</h3>
               </td>
               <td>
-                <h3>20yrs</h3>
+                <h3>24yrs</h3>
               </td>
             </tr>
             <tr>

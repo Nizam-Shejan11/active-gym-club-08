@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import Calculate from "../Calculate/Calculate";
 import "./Activitys.css";
 import Card from "./Card/Card";
 
@@ -20,7 +21,7 @@ const Activitys = () => {
       <div className="exercise-container">
         <div className="exercise-heading">
           <h1>ULTRA-ACTIVE-CLUB</h1>
-          <h5>Select today’s exercise</h5>
+          <h4>Select today’s exercise</h4>
         </div>
         <div className="all-exercise">
           {allDetails.map((allDetail) => (
@@ -33,7 +34,7 @@ const Activitys = () => {
         </div>
       </div>
       <div className="details-container">
-        <h1>Other-Details</h1>
+        <Calculate></Calculate>
       </div>
     </div>
   );

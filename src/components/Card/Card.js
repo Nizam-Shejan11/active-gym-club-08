@@ -22,8 +22,9 @@ const Card = () => {
     <div className="main-container">
       <div className="left-container">
         <div className="gym-name">
-          <h1>Active GYM Club</h1>
+          <h1 className="header">Active GYM Club</h1>
         </div>
+        <h3 className="header2">Select today’s exercise:</h3>
         <div className="product-container">
           {products.map((product) => (
             <Product

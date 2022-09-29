@@ -29,7 +29,6 @@ const List = (props) => {
   return (
     <div className="list">
       <div className="my-info">
-        <img src="../../images/bogura-gym-logo.jpg" alt="Logo" />
         <div>
           {/* change this name */}
           <h3>Nizam Uddin Shejan</h3>

@@ -1,10 +1,10 @@
-import Activitys from "./Activitys/Activitys";
 import "./App.css";
+import Card from "./components/Card/Card";
 
 function App() {
   return (
-    <div className="App">
-      <Activitys></Activitys>
+    <div>
+      <Card></Card>
     </div>
   );
 }

@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "name": "Trade-Mil",
+        "time": 25,
+        "img": "https://media.istockphoto.com/photos/young-man-running-on-a-treadmill-at-home-picture-id1172191646?k=20&m=1172191646&s=612x612&w=0&h=gyC3TlLxIXR_AsIqBpr7Io_WvR45CGiwxALB7Bo-hJI="
+    },
+    {
+        "id": "2",
+        "name": "Weight Lifting",
+        "time": 20,
+        "img": "https://media.istockphoto.com/photos/strong-man-doing-deadlift-training-in-gym-picture-id838386570?k=20&m=838386570&s=612x612&w=0&h=z-E8xcyYbaRtRe6_140ns8kAInc0g0SWpY7H7NwJfwc="
+    },
+    {
+        "id": "3",
+        "name": "Running",
+        "time": 25,
+        "img": "https://images.pexels.com/photos/235922/pexels-photo-235922.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": "4",
+        "name": "Leg Excercise",
+        "time": 30,
+        "img": "https://media.istockphoto.com/photos/muscular-sportsman-stretching-his-legs-to-warm-up-for-a-workout-picture-id1225440131?k=20&m=1225440131&s=612x612&w=0&h=IKG-KWJkJ0Xao2VOmL9PZr70RtxLWj_pZIoM_4ZhFrk="
+    },
+    {
+        "id": "5",
+        "name": "Push Up",
+        "time": 20,
+        "img": "https://media.istockphoto.com/photos/biracial-man-doing-push-ups-in-sportswear-on-fitness-mat-picture-id1094479308?k=20&m=1094479308&s=612x612&w=0&h=TbFOztOhPybbo6-HWxp9LM17Y0EYD08SMWLYweiLNr0="
+    },
+    {
+        "id": "6",
+        "name": "Single Hand Weight Lift",
+        "time": 30,
+        "img": "https://barbend.com/wp-content/uploads/2022/01/shutterstock_1947333379.jpg"
+    }
+      
+]

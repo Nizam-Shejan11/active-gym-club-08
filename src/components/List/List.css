@@ -1,0 +1,28 @@
+.list {
+  position: sticky;
+  top: 0;
+  padding: 30px 20px;
+}
+.my-info {
+  display: flex;
+}
+.table-1 {
+  width: 90%;
+  background-color: lightgray;
+  border-radius: 10px;
+  height: 30px;
+}
+.table-1 td {
+  width: 33%;
+  text-align: center;
+  padding: 5px 20px;
+}
+.acticity-btn {
+  background-color: skyblue;
+  border: none;
+  border-radius: 10px;
+}
+.break-time-list {
+  display: flex;
+  background-color: skyblue;
+}

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Calculate.css";
 
-const Calculate = () => {
+const Calculate = (calculate) => {
   return (
     <div className="details-container">
       <div className="self-details">

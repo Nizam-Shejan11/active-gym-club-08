@@ -65,7 +65,7 @@ const List = (props) => {
       </div>
 
       <div>
-        <h2>Break</h2>
+        <h2>Breakk</h2>
       </div>
       <div>
         <div className="break-time-list">

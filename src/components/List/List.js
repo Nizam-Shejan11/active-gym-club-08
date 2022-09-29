@@ -43,7 +43,7 @@ const List = (props) => {
                 <h3>65kg</h3>
               </td>
               <td>
-                <h3>6.0</h3>
+                <h3>5.9</h3>
               </td>
               <td>
                 <h3>20yrs</h3>

@@ -11,13 +11,24 @@ const Activitys = () => {
       .then((data) => setAllDetails(data));
   }, []);
 
+  const handleAddToList = (allDetail) => {
+    console.log(allDetail);
+  };
+
   return (
     <div className="activity-container">
       <div className="exercise-container">
-        <h1>ULTRA-ACTIVE-CLUB</h1>
+        <div className="exercise-heading">
+          <h1>ULTRA-ACTIVE-CLUB</h1>
+          <h5>Select today’s exercise</h5>
+        </div>
         <div className="all-exercise">
           {allDetails.map((allDetail) => (
-            <Card key={allDetail?.id} allDetail={allDetail}></Card>
+            <Card
+              key={allDetail?.id}
+              allDetail={allDetail}
+              handleAddToList={handleAddToList}
+            ></Card>
           ))}
         </div>
       </div>
